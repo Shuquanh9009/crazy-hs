@@ -6,6 +6,9 @@ body, html {
   height: 100%;
   margin: 0;
 }
+title{
+  text-align: center;
+}
 .bg { 
   
   background-image: url("large.jpg");
