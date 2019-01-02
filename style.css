@@ -11,6 +11,14 @@ h2{
   font-size: 30px;
   color: rgb(255,255,255)
 }
+h3{
+  position: relative;
+  text-align: center;
+  font-size: 30px;
+  color: red;
+  background:White;
+  opacity: .8;
+}
 body, html {
   height: 100%;
   margin: 0;
@@ -77,4 +85,8 @@ form{
     text-decoration: none;
     margin: 20px;
     height: 50px;
+}
+video{
+  margin: 0 auto;
+  padding: 50px 0;
 }
